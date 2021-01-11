@@ -9,7 +9,7 @@ class Main {
       System.out.print(firstArray[i]);
     }
     System.out.println("\n");
-    System.out.println("Now reeversing the words:\n");
+    System.out.println("Now reversing the words:\n");
     System.out.println("Now displaying the second array in reverse order:");
     for (int i = 0; i < secondArray.length; i++) {
       secondArray[i] = firstArray[counter];
